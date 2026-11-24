@@ -1,0 +1,11 @@
+
+Running 2 tests using 2 workers
+
+(node:68712) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:68713) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓  2 tests/e2e/home.spec.ts:122:1 › mobile menu meets automated accessibility checks (2.0s)
+  ✓  1 tests/e2e/home.spec.ts:113:1 › page and inquiry meet WCAG A/AA automated checks (2.8s)
+
+  2 passed (4.8s)

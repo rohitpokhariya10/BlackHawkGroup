@@ -1,0 +1,873 @@
+{
+  "url": "http://127.0.0.1:3001",
+  "errors": [],
+  "measurements": {
+    "desktop": {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "height": 11341,
+      "overflow": false,
+      "sections": [
+        {
+          "id": "home",
+          "class": "hero",
+          "width": 1440,
+          "height": 900,
+          "padding": "0px"
+        },
+        {
+          "id": "about",
+          "class": "about split-section",
+          "width": 1440,
+          "height": 860,
+          "padding": "137px 0px 83px"
+        },
+        {
+          "id": "values",
+          "class": "values",
+          "width": 1440,
+          "height": 997,
+          "padding": "56px 0px 0px"
+        },
+        {
+          "id": "options",
+          "class": "features section-pad",
+          "width": 1440,
+          "height": 556.78125,
+          "padding": "113px 109.44px 106px"
+        },
+        {
+          "id": "owners",
+          "class": "owners split-section",
+          "width": 1440,
+          "height": 900,
+          "padding": "0px"
+        },
+        {
+          "id": "properties",
+          "class": "properties section-pad",
+          "width": 1440,
+          "height": 1058.125,
+          "padding": "123px 54.72px 120px"
+        },
+        {
+          "id": "communities",
+          "class": "communities section-pad",
+          "width": 1440,
+          "height": 1243.296875,
+          "padding": "83px 109.44px 82px"
+        },
+        {
+          "id": "office",
+          "class": "office",
+          "width": 1440,
+          "height": 637,
+          "padding": "104px 24px 70px"
+        },
+        {
+          "id": "team",
+          "class": "team section-pad",
+          "width": 1440,
+          "height": 666.4375,
+          "padding": "100px 109.44px 85px"
+        },
+        {
+          "id": "connections",
+          "class": "connections",
+          "width": 1440,
+          "height": 678.40625,
+          "padding": "60px 57.6px 100px 0px"
+        },
+        {
+          "id": "buyers",
+          "class": "journey journey--buyers",
+          "width": 1400,
+          "height": 430,
+          "padding": "70px 112px"
+        },
+        {
+          "id": "sellers",
+          "class": "journey journey--sellers",
+          "width": 1400,
+          "height": 430,
+          "padding": "70px 112px"
+        },
+        {
+          "id": "contact",
+          "class": "closing",
+          "width": 1440,
+          "height": 690,
+          "padding": "110px 40px"
+        },
+        {
+          "id": "",
+          "class": "site-footer",
+          "width": 1440,
+          "height": 587.8125,
+          "padding": "100px 50.4px 35px"
+        }
+      ],
+      "headings": [
+        {
+          "text": "Property Decisions,\nMade Personal",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "70px",
+          "weight": "300",
+          "line": "70px"
+        },
+        {
+          "text": "A Different Search for Every Client",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Core Values",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Property Options",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Basil & Betty Sullivan",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Explore Available Properties",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Find Your Next Location",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Visit or Contact Blackhawk Realty Group",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "People Behind Your Property Journey",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Connect With Blackhawk",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Start With How You Want to Live",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "40px",
+          "weight": "400",
+          "line": "44px"
+        },
+        {
+          "text": "Selling Starts Before the Sign Goes Up",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "40px",
+          "weight": "400",
+          "line": "44px"
+        },
+        {
+          "text": "Your next property decision begins with a conversation.",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "58px",
+          "weight": "300",
+          "line": "64.96px"
+        },
+        {
+          "text": "BLACKHAWK REALTY GROUP",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "18px",
+          "weight": "400",
+          "line": "25.2px"
+        },
+        {
+          "text": "NAVIGATION",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "18px",
+          "weight": "400",
+          "line": "25.2px"
+        }
+      ],
+      "images": [
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fhero%2Fhero.webp&w=1920&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fliving.webp&w=750&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fresidential.webp&w=1920&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fcommercial.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Finterior.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fexterior.webp&w=1920&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fcity.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fresidential.webp&w=1920&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fcommercial.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fneighborhood.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Finterior.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fhero%2Fhero.webp&w=1920&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fliving.webp&w=750&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fexterior.webp&w=1920&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Foffice%2Foffice.webp&w=1920&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fbuyers.webp&w=1920&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fsellers.webp&w=1920&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fresidential.webp&w=1920&q=75",
+          "loaded": true
+        }
+      ]
+    },
+    "tablet": {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "height": 12216,
+      "overflow": false,
+      "sections": [
+        {
+          "id": "home",
+          "class": "hero",
+          "width": 768,
+          "height": 950.59375,
+          "padding": "0px"
+        },
+        {
+          "id": "about",
+          "class": "about split-section",
+          "width": 768,
+          "height": 1231.890625,
+          "padding": "65px 40px"
+        },
+        {
+          "id": "values",
+          "class": "values",
+          "width": 768,
+          "height": 1272,
+          "padding": "48px 0px 0px"
+        },
+        {
+          "id": "options",
+          "class": "features section-pad",
+          "width": 768,
+          "height": 487.75,
+          "padding": "72px 40px"
+        },
+        {
+          "id": "owners",
+          "class": "owners split-section",
+          "width": 768,
+          "height": 1373.234375,
+          "padding": "0px"
+        },
+        {
+          "id": "properties",
+          "class": "properties section-pad",
+          "width": 768,
+          "height": 1387.09375,
+          "padding": "72px 40px"
+        },
+        {
+          "id": "communities",
+          "class": "communities section-pad",
+          "width": 768,
+          "height": 1261.34375,
+          "padding": "72px 40px"
+        },
+        {
+          "id": "office",
+          "class": "office",
+          "width": 768,
+          "height": 648.203125,
+          "padding": "80px 40px"
+        },
+        {
+          "id": "team",
+          "class": "team section-pad",
+          "width": 768,
+          "height": 677.9375,
+          "padding": "72px 40px"
+        },
+        {
+          "id": "connections",
+          "class": "connections",
+          "width": 768,
+          "height": 380,
+          "padding": "45px 40px 70px"
+        },
+        {
+          "id": "buyers",
+          "class": "journey journey--buyers",
+          "width": 728,
+          "height": 400,
+          "padding": "45px 35px"
+        },
+        {
+          "id": "sellers",
+          "class": "journey journey--sellers",
+          "width": 728,
+          "height": 400,
+          "padding": "45px 35px"
+        },
+        {
+          "id": "contact",
+          "class": "closing",
+          "width": 768,
+          "height": 600,
+          "padding": "80px 40px"
+        },
+        {
+          "id": "",
+          "class": "site-footer",
+          "width": 768,
+          "height": 746.3125,
+          "padding": "75px 40px 30px"
+        }
+      ],
+      "headings": [
+        {
+          "text": "Property Decisions,\nMade Personal",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "46.08px",
+          "weight": "300",
+          "line": "46.08px"
+        },
+        {
+          "text": "A Different Search for Every Client",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Core Values",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Property Options",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Basil & Betty Sullivan",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Explore Available Properties",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Find Your Next Location",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Visit or Contact Blackhawk Realty Group",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "People Behind Your Property Journey",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Connect With Blackhawk",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "400",
+          "line": "52.5px"
+        },
+        {
+          "text": "Start With How You Want to Live",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "36px",
+          "weight": "400",
+          "line": "39.6px"
+        },
+        {
+          "text": "Selling Starts Before the Sign Goes Up",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "36px",
+          "weight": "400",
+          "line": "39.6px"
+        },
+        {
+          "text": "Your next property decision begins with a conversation.",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "50px",
+          "weight": "300",
+          "line": "56px"
+        },
+        {
+          "text": "BLACKHAWK REALTY GROUP",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "18px",
+          "weight": "400",
+          "line": "25.2px"
+        },
+        {
+          "text": "NAVIGATION",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "18px",
+          "weight": "400",
+          "line": "25.2px"
+        }
+      ],
+      "images": [
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fhero%2Fhero.webp&w=828&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fliving.webp&w=828&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fresidential.webp&w=828&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fcommercial.webp&w=384&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Finterior.webp&w=384&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fexterior.webp&w=828&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fcity.webp&w=384&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fresidential.webp&w=828&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fcommercial.webp&w=384&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fneighborhood.webp&w=384&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Finterior.webp&w=384&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fhero%2Fhero.webp&w=828&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fliving.webp&w=828&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fexterior.webp&w=828&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Foffice%2Foffice.webp&w=828&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fbuyers.webp&w=828&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fsellers.webp&w=828&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fresidential.webp&w=828&q=75",
+          "loaded": true
+        }
+      ]
+    },
+    "mobile": {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "height": 14568,
+      "overflow": false,
+      "sections": [
+        {
+          "id": "home",
+          "class": "hero",
+          "width": 390,
+          "height": 1036,
+          "padding": "0px"
+        },
+        {
+          "id": "about",
+          "class": "about split-section",
+          "width": 390,
+          "height": 1172.59375,
+          "padding": "64px 24px 56px"
+        },
+        {
+          "id": "values",
+          "class": "values",
+          "width": 390,
+          "height": 2087.296875,
+          "padding": "48px 0px 0px"
+        },
+        {
+          "id": "options",
+          "class": "features section-pad",
+          "width": 390,
+          "height": 805.859375,
+          "padding": "64px 24px"
+        },
+        {
+          "id": "owners",
+          "class": "owners split-section",
+          "width": 390,
+          "height": 1527.203125,
+          "padding": "0px"
+        },
+        {
+          "id": "properties",
+          "class": "properties section-pad",
+          "width": 390,
+          "height": 1977.875,
+          "padding": "64px 24px"
+        },
+        {
+          "id": "communities",
+          "class": "communities section-pad",
+          "width": 390,
+          "height": 1120.5,
+          "padding": "64px 24px"
+        },
+        {
+          "id": "office",
+          "class": "office",
+          "width": 390,
+          "height": 602.484375,
+          "padding": "64px 24px"
+        },
+        {
+          "id": "team",
+          "class": "team section-pad",
+          "width": 390,
+          "height": 699.5625,
+          "padding": "64px 24px"
+        },
+        {
+          "id": "connections",
+          "class": "connections",
+          "width": 390,
+          "height": 433.09375,
+          "padding": "32px 24px 64px"
+        },
+        {
+          "id": "buyers",
+          "class": "journey journey--buyers",
+          "width": 350,
+          "height": 520,
+          "padding": "40px 24px"
+        },
+        {
+          "id": "sellers",
+          "class": "journey journey--sellers",
+          "width": 350,
+          "height": 520,
+          "padding": "40px 24px"
+        },
+        {
+          "id": "contact",
+          "class": "closing",
+          "width": 390,
+          "height": 620,
+          "padding": "75px 24px"
+        },
+        {
+          "id": "",
+          "class": "site-footer",
+          "width": 390,
+          "height": 1051.90625,
+          "padding": "64px 24px 28px"
+        }
+      ],
+      "headings": [
+        {
+          "text": "Property Decisions,\nMade Personal",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "35px",
+          "weight": "300",
+          "line": "36.05px"
+        },
+        {
+          "text": "A Different Search for Every Client",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "35px",
+          "weight": "400",
+          "line": "37.8px"
+        },
+        {
+          "text": "Core Values",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "35px",
+          "weight": "400",
+          "line": "37.8px"
+        },
+        {
+          "text": "Property Options",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "35px",
+          "weight": "400",
+          "line": "37.8px"
+        },
+        {
+          "text": "Basil & Betty Sullivan",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "35px",
+          "weight": "400",
+          "line": "37.8px"
+        },
+        {
+          "text": "Explore Available Properties",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "35px",
+          "weight": "400",
+          "line": "37.8px"
+        },
+        {
+          "text": "Find Your Next Location",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "35px",
+          "weight": "400",
+          "line": "37.8px"
+        },
+        {
+          "text": "Visit or Contact Blackhawk Realty Group",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "35px",
+          "weight": "400",
+          "line": "37.8px"
+        },
+        {
+          "text": "People Behind Your Property Journey",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "35px",
+          "weight": "400",
+          "line": "37.8px"
+        },
+        {
+          "text": "Connect With Blackhawk",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "35px",
+          "weight": "400",
+          "line": "37.8px"
+        },
+        {
+          "text": "Start With How You Want to Live",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "33px",
+          "weight": "400",
+          "line": "36.3px"
+        },
+        {
+          "text": "Selling Starts Before the Sign Goes Up",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "33px",
+          "weight": "400",
+          "line": "36.3px"
+        },
+        {
+          "text": "Your next property decision begins with a conversation.",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "40px",
+          "weight": "300",
+          "line": "44.8px"
+        },
+        {
+          "text": "BLACKHAWK REALTY GROUP",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "18px",
+          "weight": "400",
+          "line": "25.2px"
+        },
+        {
+          "text": "NAVIGATION",
+          "font": "playfair, \"playfair Fallback\", Georgia, serif",
+          "size": "18px",
+          "weight": "400",
+          "line": "25.2px"
+        }
+      ],
+      "images": [
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fhero%2Fhero.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fliving.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fresidential.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fcommercial.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Finterior.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fexterior.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fcity.webp&w=256&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fresidential.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fcommercial.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fneighborhood.webp&w=256&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Finterior.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fhero%2Fhero.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fliving.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommunities%2Fexterior.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Foffice%2Foffice.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fbuyers.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Finteriors%2Fsellers.webp&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fproperties%2Fresidential.webp&w=640&q=75",
+          "loaded": true
+        }
+      ]
+    }
+  }
+}

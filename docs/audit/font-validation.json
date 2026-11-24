@@ -1,0 +1,69 @@
+{
+  "playfair": {
+    "file": "public/fonts/playfair-latin-variable.woff2",
+    "signature": "wOF2",
+    "bytes": 112128,
+    "sha256": "acb9bb7bac8b2ceaf2649cb1683257fbdce746acbeb1cfdb17bfcf6fed0258ac",
+    "family": "Playfair 5pt SemiExpanded Light",
+    "axes": [
+      {
+        "tag": "opsz",
+        "min": 5.0,
+        "default": 5.0,
+        "max": 1200.0
+      },
+      {
+        "tag": "wght",
+        "min": 300.0,
+        "default": 300.0,
+        "max": 900.0
+      }
+    ],
+    "processing": {
+      "sourceAxes": [
+        {
+          "tag": "opsz",
+          "min": 5.0,
+          "default": 5.0,
+          "max": 1200.0
+        },
+        {
+          "tag": "wdth",
+          "min": 87.5,
+          "default": 112.5,
+          "max": 112.5
+        },
+        {
+          "tag": "wght",
+          "min": 300.0,
+          "default": 300.0,
+          "max": 900.0
+        }
+      ],
+      "sourceBytes": 183988,
+      "pinnedWidth": 100,
+      "method": "fontTools.varLib.instancer; all optical sizes and weights retained"
+    }
+  },
+  "inter": {
+    "file": "public/fonts/inter-latin-variable.woff2",
+    "signature": "wOF2",
+    "bytes": 72920,
+    "sha256": "2c295d99e26dcf357d4d01bcf270fd6924b600c9a13dd8c363ef114f4c6976fa",
+    "family": "Inter",
+    "axes": [
+      {
+        "tag": "opsz",
+        "min": 14.0,
+        "default": 14.0,
+        "max": 32.0
+      },
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "default": 400.0,
+        "max": 900.0
+      }
+    ]
+  }
+}

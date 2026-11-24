@@ -1,0 +1,160 @@
+{
+  "url": "http://127.0.0.1:3002",
+  "errors": [],
+  "hero": [
+    {
+      "elapsed": 0,
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, 100)"
+    },
+    {
+      "elapsed": 150,
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, 100)"
+    },
+    {
+      "elapsed": 400,
+      "opacity": "0.085",
+      "transform": "matrix(1, 0, 0, 1, 0, 91.4967)"
+    },
+    {
+      "elapsed": 800,
+      "opacity": "0.6213",
+      "transform": "matrix(1, 0, 0, 1, 0, 37.8661)"
+    },
+    {
+      "elapsed": 1200,
+      "opacity": "0.9023",
+      "transform": "matrix(1, 0, 0, 1, 0, 9.7737)"
+    },
+    {
+      "elapsed": 2100,
+      "opacity": "1",
+      "transform": "none"
+    }
+  ],
+  "typography": {
+    "family": "playfair, \"playfair Fallback\", Georgia, serif",
+    "size": "70px",
+    "weight": "300",
+    "opticalSizing": "auto",
+    "variation": "normal",
+    "stretch": "100%"
+  },
+  "rise": {
+    "initial": {
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, 100)"
+    },
+    "samples": [
+      {
+        "elapsed": 0,
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 100)"
+      },
+      {
+        "elapsed": 150,
+        "opacity": "0.0783",
+        "transform": "matrix(1, 0, 0, 1, 0, 92.1695)"
+      },
+      {
+        "elapsed": 400,
+        "opacity": "0.42",
+        "transform": "matrix(1, 0, 0, 1, 0, 57.9962)"
+      },
+      {
+        "elapsed": 800,
+        "opacity": "0.8227",
+        "transform": "matrix(1, 0, 0, 1, 0, 17.7253)"
+      },
+      {
+        "elapsed": 1200,
+        "opacity": "0.9722",
+        "transform": "matrix(1, 0, 0, 1, 0, 2.7769)"
+      },
+      {
+        "elapsed": 1900,
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      }
+    ]
+  },
+  "scale": {
+    "initial": {
+      "opacity": "0",
+      "transform": "matrix(0.6, 0, 0, 0.6, 0, 0)"
+    },
+    "samples": [
+      {
+        "elapsed": 0,
+        "opacity": "0",
+        "transform": "matrix(0.6, 0, 0, 0.6, 0, 0)"
+      },
+      {
+        "elapsed": 150,
+        "opacity": "0.0783",
+        "transform": "matrix(0.6313, 0, 0, 0.6313, 0, 0)"
+      },
+      {
+        "elapsed": 400,
+        "opacity": "0.42",
+        "transform": "matrix(0.768, 0, 0, 0.768, 0, 0)"
+      },
+      {
+        "elapsed": 800,
+        "opacity": "0.8234",
+        "transform": "matrix(0.9294, 0, 0, 0.9294, 0, 0)"
+      },
+      {
+        "elapsed": 1200,
+        "opacity": "0.9724",
+        "transform": "matrix(0.989, 0, 0, 0.989, 0, 0)"
+      },
+      {
+        "elapsed": 1900,
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      }
+    ]
+  },
+  "header": {
+    "height": 93,
+    "position": "fixed",
+    "background": "rgb(0, 0, 0)"
+  },
+  "reverse": {
+    "opacity": "1",
+    "transform": "matrix(1, 0, 0, 1, 0, 0)"
+  },
+  "hover": {
+    "opacity": "1",
+    "transition": "opacity 0.4s, transform 0.4s"
+  },
+  "reduced": {
+    "count": 49,
+    "hidden": 0,
+    "transformed": 0
+  },
+  "repeatedPreferenceChange": {
+    "hidden": 0
+  },
+  "menu": {
+    "open": true,
+    "cssDuration": "0.4s",
+    "cssEasing": "ease-in-out",
+    "animations": [
+      {
+        "delay": 0,
+        "direction": "normal",
+        "duration": 400,
+        "easing": "linear",
+        "endDelay": 0,
+        "fill": "none",
+        "iterationStart": 0,
+        "iterations": 1
+      }
+    ],
+    "closedAfterEscape": true,
+    "focusReturned": true
+  }
+}

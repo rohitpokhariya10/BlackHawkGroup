@@ -1,0 +1,10 @@
+Captured desktop: 1440x1000, height 11563, overflow=false
+Captured tablet: 768x1024, height 12597, overflow=false
+Captured mobile: 390x844, height 14654, overflow=false
+Captured 1920x1000, height 12223, overflow=false
+Captured 1280x1000, height 11471, overflow=false
+Captured 1024x1000, height 11640, overflow=false
+Captured 430x844, height 14684, overflow=false
+Captured 375x844, height 14744, overflow=false
+Captured 320x844, height 15352, overflow=false
+Browser errors: []

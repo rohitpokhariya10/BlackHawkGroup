@@ -1,0 +1,29 @@
+
+Running 18 tests using 3 workers
+
+(node:69906) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:69905) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:69907) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   3 tests/e2e/home.spec.ts:27:3 › responsive layout has no overflow and all imagery loads at 1440px (5.6s)
+  ✓   1 tests/e2e/home.spec.ts:27:3 › responsive layout has no overflow and all imagery loads at 1920px (5.7s)
+  ✓   2 tests/e2e/home.spec.ts:6:1 › complete homepage, approved copy, valid anchors and private metadata (6.2s)
+  ✓   6 tests/e2e/home.spec.ts:27:3 › responsive layout has no overflow and all imagery loads at 768px (2.5s)
+  ✓   5 tests/e2e/home.spec.ts:27:3 › responsive layout has no overflow and all imagery loads at 1024px (3.1s)
+  ✓   4 tests/e2e/home.spec.ts:27:3 › responsive layout has no overflow and all imagery loads at 1280px (3.2s)
+  ✓   7 tests/e2e/home.spec.ts:27:3 › responsive layout has no overflow and all imagery loads at 430px (2.6s)
+  ✓   9 tests/e2e/home.spec.ts:27:3 › responsive layout has no overflow and all imagery loads at 375px (2.5s)
+  ✓   8 tests/e2e/home.spec.ts:27:3 › responsive layout has no overflow and all imagery loads at 390px (2.5s)
+  ✓  10 tests/e2e/home.spec.ts:27:3 › responsive layout has no overflow and all imagery loads at 320px (2.1s)
+  ✓  12 tests/e2e/home.spec.ts:58:1 › mobile menu traps focus, closes on Escape and follows section links (2.5s)
+  ✓  11 tests/e2e/home.spec.ts:42:1 › desktop dropdown, anchored navigation, values and back-to-top (2.6s)
+  ✓  14 tests/e2e/home.spec.ts:97:1 › preferences, listing and blog previews are honest and functional (2.8s)
+  ✓  13 tests/e2e/home.spec.ts:76:1 › inquiry validates locally and never claims delivery (3.6s)
+  ✓  15 tests/e2e/home.spec.ts:113:1 › page and inquiry meet WCAG A/AA automated checks (4.7s)
+  ✓  17 tests/e2e/home.spec.ts:129:1 › content remains readable without JavaScript (1.7s)
+  ✓  16 tests/e2e/home.spec.ts:122:1 › mobile menu meets automated accessibility checks (2.2s)
+  ✓  18 tests/e2e/home.spec.ts:139:1 › motion reveals once and respects live reduced-motion changes (3.8s)
+
+  18 passed (24.4s)

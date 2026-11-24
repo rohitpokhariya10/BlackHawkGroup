@@ -1,0 +1,17 @@
+:root {
+  --paper: #f9f9f7;
+  --white: #fff;
+  --ink: #1e1e1e;
+  --body: #242424;
+  --muted: #6c6862;
+  --line: #b8b5af;
+  --serif: var(--font-playfair), Georgia, serif;
+  --sans: var(--font-inter), Arial, sans-serif;
+  --body-size: 1rem;
+  --body-leading: 1.875;
+  --heading-size: 4.375rem;
+  --section-inline: clamp(24px, 7.6vw, 146px);
+  --ease: cubic-bezier(.25, .1, .25, 1);
+  --hover-time: .4s;
+  --header-height: 93px;
+}

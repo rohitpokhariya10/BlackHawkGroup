@@ -1,0 +1,159 @@
+{
+  "scrollY": 1759,
+  "header": {
+    "class": "header header--fixed",
+    "height": 93.09375
+  },
+  "animated": [
+    {
+      "class": "heading heading--display-on-dark aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "banner__ctas aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "banner__quick-search aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "welcome__media aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-right"
+    },
+    {
+      "class": "section-title welcome__title aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "heading heading--h4 welcome__subheading aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "welcome__body aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "btn btn--dark aos-init aios-initial-setup-dead-link aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "section-title core-values__title aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "core-values__item core-values__item--has-desc db-tap aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "core-values__item core-values__item--has-desc db-tap aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "core-values__item core-values__item--has-desc db-tap aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "core-values__item core-values__item--has-desc db-tap aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "core-values__item core-values__item--has-desc db-tap aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "core-values__item core-values__item--has-desc db-tap aos-init aos-animate",
+      "opacity": "1",
+      "transform": "none",
+      "aos": "fade-up"
+    },
+    {
+      "class": "section-title track-record__title aos-init",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, 100)",
+      "aos": "fade-up"
+    },
+    {
+      "class": "track-record__item aos-init",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, 100)",
+      "aos": "fade-up"
+    },
+    {
+      "class": "track-record__item aos-init",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, 100)",
+      "aos": "fade-up"
+    },
+    {
+      "class": "track-record__item aos-init",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, 100)",
+      "aos": "fade-up"
+    },
+    {
+      "class": "meet-broker__media aos-init",
+      "opacity": "0",
+      "transform": "none",
+      "aos": "fade-in"
+    },
+    {
+      "class": "meet-broker__content aos-init",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "aos": "fade-left"
+    },
+    {
+      "class": "section-title exclusive-listings__title aos-init",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -100, 0)",
+      "aos": "fade-right"
+    },
+    {
+      "class": "btn btn--dark exclusive-listings__cta aos-init",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "aos": "fade-left"
+    },
+    {
+      "class": "exclusive-listings__grid aos-init",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 0, 100)",
+      "aos": "fade-up"
+    }
+  ]
+}
