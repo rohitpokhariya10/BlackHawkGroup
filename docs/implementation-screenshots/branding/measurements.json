@@ -1,0 +1,2938 @@
+{
+ "320": {
+  "top": [
+   {
+    "holder": "header-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "brand  ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "hero__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "100px",
+    "svg": [
+     75,
+     135,
+     170,
+     90
+    ],
+    "glyphs": [
+     91,
+     121,
+     143,
+     120
+    ],
+    "spillX": -11,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "about__copy",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "450px",
+    "svg": [
+     64,
+     1499,
+     232,
+     405
+    ],
+    "glyphs": [
+     86,
+     1621,
+     195,
+     164
+    ],
+    "spillX": -15,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     140,
+     2634,
+     41,
+     22
+    ],
+    "glyphs": [
+     143,
+     2631,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     140,
+     2955,
+     41,
+     22
+    ],
+    "glyphs": [
+     143,
+     2952,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     140,
+     3276,
+     41,
+     22
+    ],
+    "glyphs": [
+     143,
+     3273,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     140,
+     3597,
+     41,
+     22
+    ],
+    "glyphs": [
+     143,
+     3594,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     140,
+     3918,
+     41,
+     22
+    ],
+    "glyphs": [
+     143,
+     3915,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     140,
+     4239,
+     41,
+     22
+    ],
+    "glyphs": [
+     143,
+     4236,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "properties section-pad",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "450px",
+    "svg": [
+     10,
+     7138,
+     280,
+     405
+    ],
+    "glyphs": [
+     37,
+     7244,
+     235,
+     198
+    ],
+    "spillX": -18,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "team__preview",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "28px",
+    "svg": [
+     136,
+     11654,
+     48,
+     25
+    ],
+    "glyphs": [
+     141,
+     11650,
+     40,
+     34
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "connections__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "500px",
+    "svg": [
+     0,
+     12013,
+     320,
+     450
+    ],
+    "glyphs": [
+     31,
+     12128,
+     269,
+     226
+    ],
+    "spillX": -20,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "footer-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "125px",
+    "svg": [
+     60,
+     14312,
+     200,
+     113
+    ],
+    "glyphs": [
+     79,
+     14300,
+     168,
+     141
+    ],
+    "spillX": -13,
+    "offViewport": false,
+    "visible": true
+   }
+  ],
+  "headerHeight": 79,
+  "scrollWidth": 320,
+  "scrolledHeaderHeight": 79,
+  "scrolledBrand": [
+   29,
+   12,
+   71,
+   38
+  ],
+  "overflowAfterScroll": false,
+  "menuBrand": [
+   86,
+   28,
+   148,
+   78
+  ]
+ },
+ "375": {
+  "top": [
+   {
+    "holder": "header-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "brand  ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "hero__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "100px",
+    "svg": [
+     103,
+     135,
+     170,
+     90
+    ],
+    "glyphs": [
+     119,
+     121,
+     143,
+     120
+    ],
+    "spillX": -11,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "about__copy",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "450px",
+    "svg": [
+     64,
+     1480,
+     287,
+     405
+    ],
+    "glyphs": [
+     91,
+     1584,
+     241,
+     202
+    ],
+    "spillX": -18,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     167,
+     2478,
+     41,
+     22
+    ],
+    "glyphs": [
+     171,
+     2475,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     167,
+     2799,
+     41,
+     22
+    ],
+    "glyphs": [
+     171,
+     2796,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     167,
+     3120,
+     41,
+     22
+    ],
+    "glyphs": [
+     171,
+     3117,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     167,
+     3441,
+     41,
+     22
+    ],
+    "glyphs": [
+     171,
+     3438,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     167,
+     3762,
+     41,
+     22
+    ],
+    "glyphs": [
+     171,
+     3759,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     167,
+     4083,
+     41,
+     22
+    ],
+    "glyphs": [
+     171,
+     4080,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "properties section-pad",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "450px",
+    "svg": [
+     10,
+     6790,
+     335,
+     405
+    ],
+    "glyphs": [
+     42,
+     6878,
+     282,
+     236
+    ],
+    "spillX": -21,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "team__preview",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "28px",
+    "svg": [
+     164,
+     11106,
+     48,
+     25
+    ],
+    "glyphs": [
+     168,
+     11102,
+     40,
+     34
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "connections__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "500px",
+    "svg": [
+     0,
+     11466,
+     375,
+     450
+    ],
+    "glyphs": [
+     36,
+     11562,
+     315,
+     264
+    ],
+    "spillX": -24,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "footer-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "125px",
+    "svg": [
+     83,
+     13735,
+     210,
+     113
+    ],
+    "glyphs": [
+     103,
+     13719,
+     177,
+     148
+    ],
+    "spillX": -13,
+    "offViewport": false,
+    "visible": true
+   }
+  ],
+  "headerHeight": 79,
+  "scrollWidth": 375,
+  "scrolledHeaderHeight": 79,
+  "scrolledBrand": [
+   29,
+   12,
+   71,
+   38
+  ],
+  "overflowAfterScroll": false,
+  "menuBrand": [
+   114,
+   28,
+   148,
+   78
+  ]
+ },
+ "390": {
+  "top": [
+   {
+    "holder": "header-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "brand  ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "hero__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "100px",
+    "svg": [
+     110,
+     135,
+     170,
+     90
+    ],
+    "glyphs": [
+     126,
+     121,
+     143,
+     120
+    ],
+    "spillX": -11,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "about__copy",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "450px",
+    "svg": [
+     64,
+     1496,
+     302,
+     405
+    ],
+    "glyphs": [
+     93,
+     1595,
+     254,
+     213
+    ],
+    "spillX": -19,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     175,
+     2494,
+     41,
+     22
+    ],
+    "glyphs": [
+     178,
+     2491,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     175,
+     2815,
+     41,
+     22
+    ],
+    "glyphs": [
+     178,
+     2812,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     175,
+     3136,
+     41,
+     22
+    ],
+    "glyphs": [
+     178,
+     3133,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     175,
+     3457,
+     41,
+     22
+    ],
+    "glyphs": [
+     178,
+     3454,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     175,
+     3778,
+     41,
+     22
+    ],
+    "glyphs": [
+     178,
+     3775,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     175,
+     4099,
+     41,
+     22
+    ],
+    "glyphs": [
+     178,
+     4096,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "properties section-pad",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "450px",
+    "svg": [
+     10,
+     6694,
+     350,
+     405
+    ],
+    "glyphs": [
+     43,
+     6776,
+     294,
+     247
+    ],
+    "spillX": -22,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "team__preview",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "28px",
+    "svg": [
+     171,
+     11038,
+     48,
+     25
+    ],
+    "glyphs": [
+     176,
+     11034,
+     40,
+     34
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "connections__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "500px",
+    "svg": [
+     0,
+     11397,
+     390,
+     450
+    ],
+    "glyphs": [
+     37,
+     11488,
+     328,
+     275
+    ],
+    "spillX": -25,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "footer-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "125px",
+    "svg": [
+     90,
+     13666,
+     210,
+     113
+    ],
+    "glyphs": [
+     110,
+     13651,
+     177,
+     148
+    ],
+    "spillX": -13,
+    "offViewport": false,
+    "visible": true
+   }
+  ],
+  "headerHeight": 79,
+  "scrollWidth": 390,
+  "scrolledHeaderHeight": 79,
+  "scrolledBrand": [
+   29,
+   12,
+   71,
+   38
+  ],
+  "overflowAfterScroll": false,
+  "menuBrand": [
+   121,
+   28,
+   148,
+   78
+  ]
+ },
+ "430": {
+  "top": [
+   {
+    "holder": "header-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "brand  ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "hero__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "100px",
+    "svg": [
+     130,
+     135,
+     170,
+     90
+    ],
+    "glyphs": [
+     146,
+     121,
+     143,
+     120
+    ],
+    "spillX": -11,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "about__copy",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "450px",
+    "svg": [
+     64,
+     1538,
+     342,
+     405
+    ],
+    "glyphs": [
+     97,
+     1623,
+     288,
+     241
+    ],
+    "spillX": -22,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     195,
+     2476,
+     41,
+     22
+    ],
+    "glyphs": [
+     198,
+     2473,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     195,
+     2797,
+     41,
+     22
+    ],
+    "glyphs": [
+     198,
+     2794,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     195,
+     3118,
+     41,
+     22
+    ],
+    "glyphs": [
+     198,
+     3115,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     195,
+     3439,
+     41,
+     22
+    ],
+    "glyphs": [
+     198,
+     3436,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     195,
+     3760,
+     41,
+     22
+    ],
+    "glyphs": [
+     198,
+     3757,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     195,
+     4081,
+     41,
+     22
+    ],
+    "glyphs": [
+     198,
+     4078,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "properties section-pad",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "450px",
+    "svg": [
+     10,
+     6646,
+     390,
+     405
+    ],
+    "glyphs": [
+     47,
+     6714,
+     328,
+     275
+    ],
+    "spillX": -25,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "team__preview",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "28px",
+    "svg": [
+     191,
+     11141,
+     48,
+     25
+    ],
+    "glyphs": [
+     196,
+     11137,
+     40,
+     34
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "connections__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "500px",
+    "svg": [
+     0,
+     11474,
+     430,
+     450
+    ],
+    "glyphs": [
+     41,
+     11551,
+     361,
+     304
+    ],
+    "spillX": -27,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "footer-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "125px",
+    "svg": [
+     110,
+     13696,
+     210,
+     113
+    ],
+    "glyphs": [
+     130,
+     13680,
+     177,
+     148
+    ],
+    "spillX": -13,
+    "offViewport": false,
+    "visible": true
+   }
+  ],
+  "headerHeight": 79,
+  "scrollWidth": 430,
+  "scrolledHeaderHeight": 79,
+  "scrolledBrand": [
+   29,
+   12,
+   71,
+   38
+  ],
+  "overflowAfterScroll": false,
+  "menuBrand": [
+   141,
+   28,
+   148,
+   78
+  ]
+ },
+ "768": {
+  "top": [
+   {
+    "holder": "header-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "brand  ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "hero__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "100px",
+    "svg": [
+     299,
+     160,
+     170,
+     90
+    ],
+    "glyphs": [
+     315,
+     146,
+     143,
+     120
+    ],
+    "spillX": -11,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "about__copy",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "450px",
+    "svg": [
+     143,
+     1621,
+     585,
+     405
+    ],
+    "glyphs": [
+     199,
+     1622,
+     492,
+     413
+    ],
+    "spillX": -37,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     171,
+     2565,
+     41,
+     22
+    ],
+    "glyphs": [
+     175,
+     2562,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     556,
+     2565,
+     41,
+     22
+    ],
+    "glyphs": [
+     560,
+     2562,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     171,
+     2926,
+     41,
+     22
+    ],
+    "glyphs": [
+     175,
+     2923,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     556,
+     2926,
+     41,
+     22
+    ],
+    "glyphs": [
+     560,
+     2923,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     171,
+     3287,
+     41,
+     22
+    ],
+    "glyphs": [
+     175,
+     3284,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     556,
+     3287,
+     41,
+     22
+    ],
+    "glyphs": [
+     560,
+     3284,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "properties section-pad",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "450px",
+    "svg": [
+     153,
+     5478,
+     585,
+     405
+    ],
+    "glyphs": [
+     209,
+     5479,
+     492,
+     413
+    ],
+    "spillX": -37,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "team__preview",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "28px",
+    "svg": [
+     360,
+     9626,
+     48,
+     25
+    ],
+    "glyphs": [
+     365,
+     9622,
+     40,
+     34
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "connections__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "500px",
+    "svg": [
+     0,
+     9942,
+     768,
+     450
+    ],
+    "glyphs": [
+     73,
+     9902,
+     646,
+     542
+    ],
+    "spillX": -49,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "footer-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "125px",
+    "svg": [
+     279,
+     11926,
+     210,
+     113
+    ],
+    "glyphs": [
+     299,
+     11910,
+     177,
+     148
+    ],
+    "spillX": -13,
+    "offViewport": false,
+    "visible": true
+   }
+  ],
+  "headerHeight": 79,
+  "scrollWidth": 768,
+  "scrolledHeaderHeight": 79,
+  "scrolledBrand": [
+   29,
+   12,
+   71,
+   38
+  ],
+  "overflowAfterScroll": false,
+  "menuBrand": [
+   310,
+   28,
+   148,
+   78
+  ]
+ },
+ "1024": {
+  "top": [
+   {
+    "holder": "header-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     20,
+     31,
+     120,
+     78
+    ],
+    "glyphs": [
+     31,
+     29,
+     101,
+     84
+    ],
+    "spillX": -8,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand  ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "hero__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "about__copy",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "491.52px",
+    "svg": [
+     532,
+     1007,
+     472,
+     442
+    ],
+    "glyphs": [
+     577,
+     1065,
+     397,
+     333
+    ],
+    "spillX": -30,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     150,
+     2174,
+     41,
+     22
+    ],
+    "glyphs": [
+     154,
+     2171,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     492,
+     2174,
+     41,
+     22
+    ],
+    "glyphs": [
+     495,
+     2171,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     833,
+     2174,
+     41,
+     22
+    ],
+    "glyphs": [
+     837,
+     2171,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     150,
+     2563,
+     41,
+     22
+    ],
+    "glyphs": [
+     154,
+     2560,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     492,
+     2563,
+     41,
+     22
+    ],
+    "glyphs": [
+     495,
+     2560,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     833,
+     2563,
+     41,
+     22
+    ],
+    "glyphs": [
+     837,
+     2560,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "properties section-pad",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "491.52px",
+    "svg": [
+     355,
+     4497,
+     639,
+     442
+    ],
+    "glyphs": [
+     416,
+     4498,
+     537,
+     451
+    ],
+    "spillX": -41,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "team__preview",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "28px",
+    "svg": [
+     488,
+     8380,
+     48,
+     25
+    ],
+    "glyphs": [
+     493,
+     8376,
+     40,
+     34
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "connections__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "368.64px",
+    "svg": [
+     0,
+     8834,
+     452,
+     332
+    ],
+    "glyphs": [
+     43,
+     8844,
+     380,
+     320
+    ],
+    "spillX": -29,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "footer-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "125px",
+    "svg": [
+     54,
+     11130,
+     210,
+     113
+    ],
+    "glyphs": [
+     74,
+     11114,
+     177,
+     148
+    ],
+    "spillX": -13,
+    "offViewport": false,
+    "visible": true
+   }
+  ],
+  "headerHeight": 174,
+  "scrollWidth": 1024,
+  "scrolledHeaderHeight": 93,
+  "scrolledBrand": [
+   37,
+   14,
+   87,
+   46
+  ],
+  "overflowAfterScroll": false
+ },
+ "1280": {
+  "top": [
+   {
+    "holder": "header-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     28,
+     31,
+     148,
+     78
+    ],
+    "glyphs": [
+     42,
+     19,
+     124,
+     104
+    ],
+    "spillX": -9,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand  ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "hero__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "about__copy",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "614.4px",
+    "svg": [
+     660,
+     1023,
+     600,
+     553
+    ],
+    "glyphs": [
+     717,
+     1092,
+     504,
+     424
+    ],
+    "spillX": -38,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     193,
+     2112,
+     41,
+     22
+    ],
+    "glyphs": [
+     196,
+     2109,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     620,
+     2112,
+     41,
+     22
+    ],
+    "glyphs": [
+     623,
+     2109,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     1047,
+     2112,
+     41,
+     22
+    ],
+    "glyphs": [
+     1050,
+     2109,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     193,
+     2501,
+     41,
+     22
+    ],
+    "glyphs": [
+     196,
+     2498,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     620,
+     2501,
+     41,
+     22
+    ],
+    "glyphs": [
+     623,
+     2498,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     1047,
+     2501,
+     41,
+     22
+    ],
+    "glyphs": [
+     1050,
+     2498,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "properties section-pad",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "614.4px",
+    "svg": [
+     451,
+     4265,
+     799,
+     553
+    ],
+    "glyphs": [
+     528,
+     4266,
+     671,
+     564
+    ],
+    "spillX": -51,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "team__preview",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "28px",
+    "svg": [
+     616,
+     8234,
+     48,
+     25
+    ],
+    "glyphs": [
+     621,
+     8230,
+     40,
+     34
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "connections__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "460.8px",
+    "svg": [
+     0,
+     8646,
+     565,
+     415
+    ],
+    "glyphs": [
+     54,
+     8659,
+     475,
+     399
+    ],
+    "spillX": -36,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "footer-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "160px",
+    "svg": [
+     63,
+     10983,
+     270,
+     144
+    ],
+    "glyphs": [
+     89,
+     10962,
+     227,
+     191
+    ],
+    "spillX": -17,
+    "offViewport": false,
+    "visible": true
+   }
+  ],
+  "headerHeight": 174,
+  "scrollWidth": 1280,
+  "scrolledHeaderHeight": 93,
+  "scrolledBrand": [
+   31,
+   14,
+   87,
+   46
+  ],
+  "overflowAfterScroll": false
+ },
+ "1440": {
+  "top": [
+   {
+    "holder": "header-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     28,
+     31,
+     148,
+     78
+    ],
+    "glyphs": [
+     42,
+     19,
+     124,
+     104
+    ],
+    "spillX": -9,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand  ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "hero__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "about__copy",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "691.2px",
+    "svg": [
+     740,
+     1023,
+     680,
+     622
+    ],
+    "glyphs": [
+     805,
+     1100,
+     572,
+     480
+    ],
+    "spillX": -43,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     219,
+     2112,
+     41,
+     22
+    ],
+    "glyphs": [
+     223,
+     2109,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     700,
+     2112,
+     41,
+     22
+    ],
+    "glyphs": [
+     703,
+     2109,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     1180,
+     2112,
+     41,
+     22
+    ],
+    "glyphs": [
+     1184,
+     2109,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     219,
+     2501,
+     41,
+     22
+    ],
+    "glyphs": [
+     223,
+     2498,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     700,
+     2501,
+     41,
+     22
+    ],
+    "glyphs": [
+     703,
+     2498,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     1180,
+     2501,
+     41,
+     22
+    ],
+    "glyphs": [
+     1184,
+     2498,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "properties section-pad",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "691.2px",
+    "svg": [
+     511,
+     4265,
+     899,
+     622
+    ],
+    "glyphs": [
+     597,
+     4266,
+     755,
+     634
+    ],
+    "spillX": -57,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "team__preview",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "28px",
+    "svg": [
+     696,
+     8322,
+     48,
+     25
+    ],
+    "glyphs": [
+     701,
+     8318,
+     40,
+     34
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "connections__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "518.4px",
+    "svg": [
+     0,
+     8711,
+     636,
+     467
+    ],
+    "glyphs": [
+     61,
+     8725,
+     535,
+     449
+    ],
+    "spillX": -41,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "footer-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "160px",
+    "svg": [
+     68,
+     11075,
+     270,
+     144
+    ],
+    "glyphs": [
+     94,
+     11054,
+     227,
+     191
+    ],
+    "spillX": -17,
+    "offViewport": false,
+    "visible": true
+   }
+  ],
+  "headerHeight": 174,
+  "scrollWidth": 1440,
+  "scrolledHeaderHeight": 93,
+  "scrolledBrand": [
+   31,
+   14,
+   87,
+   46
+  ],
+  "overflowAfterScroll": false
+ },
+ "1920": {
+  "top": [
+   {
+    "holder": "header-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     28,
+     31,
+     148,
+     78
+    ],
+    "glyphs": [
+     42,
+     19,
+     124,
+     104
+    ],
+    "spillX": -9,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand  ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "hero__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "87px",
+    "svg": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "glyphs": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "spillX": 0,
+    "offViewport": false,
+    "visible": false
+   },
+   {
+    "holder": "about__copy",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "800px",
+    "svg": [
+     980,
+     1123,
+     920,
+     720
+    ],
+    "glyphs": [
+     1068,
+     1166,
+     773,
+     649
+    ],
+    "spillX": -59,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     299,
+     2212,
+     41,
+     22
+    ],
+    "glyphs": [
+     303,
+     2209,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     940,
+     2212,
+     41,
+     22
+    ],
+    "glyphs": [
+     943,
+     2209,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     1580,
+     2212,
+     41,
+     22
+    ],
+    "glyphs": [
+     1584,
+     2209,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     299,
+     2601,
+     41,
+     22
+    ],
+    "glyphs": [
+     303,
+     2598,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     940,
+     2601,
+     41,
+     22
+    ],
+    "glyphs": [
+     943,
+     2598,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "brand brand--compact ",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "24px",
+    "svg": [
+     1580,
+     2601,
+     41,
+     22
+    ],
+    "glyphs": [
+     1584,
+     2598,
+     34,
+     29
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "properties section-pad",
+    "cls": "watermark",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "800px",
+    "svg": [
+     850,
+     4365,
+     1040,
+     720
+    ],
+    "glyphs": [
+     949,
+     4366,
+     874,
+     734
+    ],
+    "spillX": -66,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "team__preview",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "28px",
+    "svg": [
+     936,
+     8827,
+     48,
+     25
+    ],
+    "glyphs": [
+     941,
+     8823,
+     40,
+     34
+    ],
+    "spillX": -3,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "connections__brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "691.2px",
+    "svg": [
+     0,
+     9215,
+     848,
+     622
+    ],
+    "glyphs": [
+     81,
+     9234,
+     713,
+     599
+    ],
+    "spillX": -54,
+    "offViewport": false,
+    "visible": true
+   },
+   {
+    "holder": "footer-brand",
+    "cls": "brand__monogram",
+    "text": "BRG",
+    "font": "playfair",
+    "fontSize": "160px",
+    "svg": [
+     85,
+     11735,
+     270,
+     144
+    ],
+    "glyphs": [
+     111,
+     11714,
+     227,
+     191
+    ],
+    "spillX": -17,
+    "offViewport": false,
+    "visible": true
+   }
+  ],
+  "headerHeight": 174,
+  "scrollWidth": 1920,
+  "scrolledHeaderHeight": 93,
+  "scrolledBrand": [
+   31,
+   14,
+   87,
+   46
+  ],
+  "overflowAfterScroll": false
+ },
+ "favicon": [
+  "/icon.svg?v=brg"
+ ],
+ "faviconStatus": [
+  200,
+  "image/svg+xml"
+ ],
+ "errors": []
+}

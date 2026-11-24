@@ -6,4 +6,27 @@ playwright-report/
 *.tsbuildinfo
 .DS_Store
 .env*
-docs/reference-screenshots/video/
+*.log
+*.tmp
+*.swp
+.vercel/
+coverage/
+
+# Private client documents and anything extracted from them (kept locally only)
+*.pdf
+docs/audit/pdf-*
+
+# Third-party reference website captures and scraped reference data (kept locally only)
+docs/reference-screenshots/
+docs/comparisons/
+docs/audit/reference-*
+
+# Regenerated audit output (summaries and final logs remain tracked)
+docs/audit/playwright-results.json
+docs/audit/playwright-development-results.json
+docs/audit/playwright-production-results.json
+docs/audit/lighthouse/*.html
+docs/audit/lighthouse/desktop.json
+docs/audit/lighthouse/mobile.json
+docs/implementation-screenshots/pass-1/
+docs/implementation-screenshots/pass-2/

@@ -23,6 +23,17 @@ test("complete homepage, approved copy, valid anchors and private metadata", asy
   expect(errors).toEqual([]);
 });
 
+test("every brand mark, logo link name and favicon uses the BRG monogram", async ({ page }) => {
+  await page.goto("/");
+  const marks = page.locator("svg.brand__monogram, svg.watermark");
+  expect(await marks.count()).toBeGreaterThan(0);
+  expect(await marks.evaluateAll(svgs => [...new Set(svgs.map(svg => svg.textContent))])).toEqual(["BRG"]);
+  expect(await marks.evaluateAll(svgs => svgs.every(svg => svg.getAttribute("aria-hidden") === "true"))).toBe(true);
+  await expect(page.getByRole("link", { name: "BRG Blackhawk Realty Group home", exact: true })).toHaveCount(2);
+  const icon = await page.request.get((await page.locator('link[rel~="icon"]').first().getAttribute("href"))!);
+  expect(await icon.text()).toContain(">BRG</text>");
+});
+
 for (const width of [1920, 1440, 1280, 1024, 768, 430, 390, 375, 320]) {
   test(`responsive layout has no overflow and all imagery loads at ${width}px`, async ({ page }) => {
     await page.setViewportSize({ width, height: width < 768 ? 844 : 1000 });
@@ -145,6 +156,6 @@ test("motion reveals once and respects live reduced-motion changes", async ({ pa
   await page.evaluate(() => scrollTo({ top: 0, behavior: "instant" }));
   await expect(heading).toHaveCSS("opacity", "1");
   await page.emulateMedia({ reducedMotion: "reduce" });
-  const hidden = await page.locator("[data-reveal]").evaluateAll(es => es.filter(e => getComputedStyle(e).opacity === "0").length);
-  expect(hidden).toBe(0);
+  // GSAP reverts hidden reveal states from an asynchronous media-query change event.
+  await expect.poll(() => page.locator("[data-reveal]").evaluateAll(es => es.filter(e => getComputedStyle(e).opacity === "0").length)).toBe(0);
 });

@@ -22,7 +22,7 @@ Inspected live on 24 November 2026 at https://www.watchrealtyco.com/. This audit
 
 ## Verified desktop measurements (1440 × 1000)
 
-Full raw measurements: `audit/reference-desktop.json`; screenshots: `reference-screenshots/`.
+Full raw measurements: `audit/reference-desktop.json`; screenshots: `reference-screenshots/`. Raw reference captures and data are kept locally only and are excluded from Git.
 
 | Element | Measured treatment |
 | --- | --- |

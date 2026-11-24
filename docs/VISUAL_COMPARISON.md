@@ -4,9 +4,8 @@ Completed 24 November 2026. **Ready for a local client pitch.** Homepage only; n
 
 ## Visual evidence
 
-- [Side-by-side comparison gallery](comparisons/index.html): 17 pairs using existing reference captures and final implementation captures at identical source viewports.
-- Hero comparisons: [desktop](comparisons/desktop-hero.png), [tablet](comparisons/tablet-hero.png), [mobile](comparisons/mobile-hero.png).
-- Full-page comparisons: [desktop](comparisons/desktop-full.png), [tablet](comparisons/tablet-full.png), [mobile](comparisons/mobile-full.png).
+- Side-by-side comparison gallery (`comparisons/`): 17 pairs using existing reference captures and final implementation captures at identical source viewports. Because it contains third-party reference-site captures, it is kept locally and excluded from Git.
+- BRG monogram captures at all nine widths, plus the favicon: [`implementation-screenshots/branding/`](implementation-screenshots/branding/).
 - Final full pages: [1440px desktop](implementation-screenshots/final/desktop-full.png), [768px tablet](implementation-screenshots/final/tablet-full.png), [390px mobile](implementation-screenshots/final/mobile-full.png).
 - Additional full pages: [1920](implementation-screenshots/final/1920-full.png), [1280](implementation-screenshots/final/1280-full.png), [1024](implementation-screenshots/final/1024-full.png), [430](implementation-screenshots/final/430-full.png), [375](implementation-screenshots/final/375-full.png), [320](implementation-screenshots/final/320-full.png).
 - [Mobile menu](implementation-screenshots/final/mobile-menu.png) and [mobile inquiry preview](implementation-screenshots/final/mobile-inquiry.png). Every major section has desktop, tablet and mobile captures in the same directory.
@@ -32,8 +31,9 @@ Hover descriptions reveal with .4s transitions. The full light mobile menu opens
 | ESLint | Passed, no errors or warnings |
 | TypeScript (`tsc --noEmit`) | Passed |
 | Next.js production build | Passed; `/` statically prerendered; only framework not-found route besides homepage |
-| Playwright development | 18 passed in 24.4s |
-| Playwright production | 18 passed in 15.5s |
+| Playwright development | 19 passed in 16.1s (after BRG monogram update) |
+| Playwright production | 19 passed in 12.8s (after BRG monogram update) |
+| BRG monogram | Header, scrolled header, mobile menu, footer, value/team marks, connections mark, both watermarks and favicon render BRG at all nine widths; no clipping or overflow. Captures: `implementation-screenshots/branding/` |
 | Widths | 1920, 1440, 1280, 1024, 768, 430, 390, 375, 320px |
 | Automated accessibility | No WCAG A/AA violations in tested page, inquiry dialog and mobile-menu states |
 | Browser errors in final capture | None |

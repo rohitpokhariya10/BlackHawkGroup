@@ -50,7 +50,7 @@ PLAYWRIGHT_BASE_URL=http://127.0.0.1:3002 node scripts/verify-motion.mjs
 
 Tests exercise all requested widths: 1920, 1440, 1280, 1024, 768, 430, 390, 375 and 320px. They cover content/anchors, imagery, horizontal overflow, keyboard/focus behavior, dialogs, disclosure previews, local validation, reduced motion, no-JavaScript reading and automated WCAG checks. Lighthouse reports are lab measurements, not field Core Web Vitals.
 
-Final QA on 24 November 2026: **18/18 browser tests passed in development and production**, ESLint/TypeScript/production build passed, and automated accessibility checks passed. Production Lighthouse: desktop **100 / 100 / 100 / 66**, mobile **91 / 100 / 100 / 66** (performance / accessibility / best practices / SEO). SEO is reduced by intentional indexing restrictions. Full screenshots exist at all nine widths, with detailed desktop/tablet/mobile sections and [side-by-side comparisons](docs/comparisons/index.html). See [the final QA report](docs/VISUAL_COMPARISON.md) for metrics, limitations, motion evidence and remaining client inputs.
+Final QA on 24 November 2026: **19/19 browser tests passed in development and production** (including the BRG monogram check), ESLint/TypeScript/production build passed, and automated accessibility checks passed. Production Lighthouse: desktop **100 / 100 / 100 / 66**, mobile **91 / 100 / 100 / 66** (performance / accessibility / best practices / SEO). SEO is reduced by intentional indexing restrictions. Full screenshots exist at all nine widths, with detailed desktop/tablet/mobile sections and side-by-side comparisons (kept locally; see below). See [the final QA report](docs/VISUAL_COMPARISON.md) for metrics, limitations, motion evidence and remaining client inputs.
 
 Playfair optical sizing is enabled using a verified variable font with `opsz` 5–1200 and `wght` 300–900. Its unused width axis was pinned at the reference's normal 100% width to reduce transfer size. Inter and both OFL licenses remain local. The development server is intentionally left on port 3001 for the client pitch; port 3000 belongs to another project.
 
@@ -65,7 +65,7 @@ Playfair optical sizing is enabled using a verified variable font with `opsz` 5�
 - `src/styles/tokens.css`: measured colors, font roles and shared spacing.
 - `public/fonts/`, `public/images/`: licensed local assets.
 - `tests/e2e/`: Playwright browser tests.
-- `docs/`: reference audit, content provenance, comparisons, screenshots and actual QA reports.
+- `docs/`: reference audit, content provenance, screenshots and actual QA reports. The client PDF and its extracts, reference-site screenshots/comparisons and scraped reference data are kept locally only and excluded by `.gitignore`.
 
 ## Interaction behavior
 
